@@ -1,0 +1,13 @@
+# Shared
+# (no extra deps for permissions)
+
+# Lightweight agent – minimal
+# (uses only Python standard library + the shared permissions)
+
+# Vision agent
+mss>=9.0.1
+Pillow>=10.0.0
+pyautogui>=0.9.54
+
+# Optional – if you use Ollama Python client
+# ollama>=0.3.0
